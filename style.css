@@ -1,0 +1,65 @@
+
+h2{
+	color: #AA6F39;
+	text-align: center;
+	font-size: 44px;
+	text-decoration: underline;
+	font-family: cursive;
+}
+
+img{
+	float: left;
+}
+
+h1{
+	font-family: cursive;
+}
+
+h3{
+	color: #AA6F39;
+	font-family: cursive;
+	font-size: 35px;
+	width: 350px;
+	border-bottom:2px solid navajowhite;
+	border-right: 2px solid navajowhite;
+	border-left :2px solid navajowhite ;
+	box-shadow: 4px 4px 5px #888888;
+	transition: all 1s;
+	
+}
+	
+	h3:hover{
+		transform: scale(1.02);
+	}
+
+strong{
+	color: mediumpurple;
+}
+body{
+	background-image:url(image.jpg.lnk);
+	backgroung-size: cover;
+}
+
+
+
+h4{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive ;
+	transition: all 1s;
+}
+
+h4:hover{
+	transform: scale(1.03);
+}
+
+p{
+	text-align: center;
+	font-size: 32px;
+	letter-spacing: 3px;
+	font-family: fantasy;
+	
+}
+span{
+	color:mediumpurple ;
+}
